@@ -536,6 +536,18 @@ ul {
     box-shadow: var(--shadow-xl);
 }
 
+.hero__form-brand {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.hero__form-logo {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+}
+
 .hero__form-title {
     font-size: 22px;
     font-weight: 700;

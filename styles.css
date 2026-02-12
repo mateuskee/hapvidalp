@@ -553,12 +553,14 @@ ul {
     font-weight: 700;
     color: var(--blue-900);
     margin-bottom: 4px;
+    text-align: center;
 }
 
 .hero__form-desc {
     font-size: 14px;
     color: var(--gray-600);
     margin-bottom: 28px;
+    text-align: center;
 }
 
 .form-group {
